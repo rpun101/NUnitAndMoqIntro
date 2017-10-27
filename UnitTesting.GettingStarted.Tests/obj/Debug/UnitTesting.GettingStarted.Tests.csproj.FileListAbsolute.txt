@@ -10,3 +10,5 @@ c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.
 c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\obj\Debug\UnitTesting.GettingStarted.Tests.csprojResolveAssemblyReference.cache
 c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\obj\Debug\UnitTesting.GettingStarted.Tests.dll
 c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\obj\Debug\UnitTesting.GettingStarted.Tests.pdb
+c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\bin\Debug\UnitTesting.GettingStarted.dll
+c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\bin\Debug\UnitTesting.GettingStarted.pdb
