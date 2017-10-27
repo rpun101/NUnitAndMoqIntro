@@ -1,0 +1,12 @@
+c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\bin\Debug\UnitTesting.GettingStarted.Tests.dll
+c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\bin\Debug\UnitTesting.GettingStarted.Tests.pdb
+c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\bin\Debug\Castle.Core.dll
+c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\bin\Debug\Moq.dll
+c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\bin\Debug\nunit.framework.dll
+c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\bin\Debug\Castle.Core.xml
+c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\bin\Debug\Moq.pdb
+c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\bin\Debug\Moq.xml
+c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\bin\Debug\nunit.framework.xml
+c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\obj\Debug\UnitTesting.GettingStarted.Tests.csprojResolveAssemblyReference.cache
+c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\obj\Debug\UnitTesting.GettingStarted.Tests.dll
+c:\Users\Rabin\Documents\Visual Studio 2013\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted.Tests\obj\Debug\UnitTesting.GettingStarted.Tests.pdb
