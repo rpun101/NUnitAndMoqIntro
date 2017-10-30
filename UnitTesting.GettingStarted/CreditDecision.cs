@@ -42,6 +42,20 @@ namespace UnitTesting.GettingStarted
         string GetCreditDecision(int creditScore);
     }
 
+    public class CreditDecisionService : ICreditDecisionService
+    {
+        public string GetCreditDecision(int creditScore)
+        {
+
+            if (creditScore < 550)
+                return "Declined";
+            else if (creditScore < 675)
+                return "Maybe";
+            else
+                return "We look forward to doing business with you!";
+        }
+    }
+
     public class CreditDecision
     {
         ICreditDecisionService creditDecisionService;
