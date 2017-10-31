@@ -41,7 +41,8 @@ namespace UnitTesting.GettingStarted
     {
         string GetCreditDecision(int creditScore);
     }
-
+    /*
+    * We do not need this implementation because we are testing CreditDecision, not ICreditDecisionService
     public class CreditDecisionService : ICreditDecisionService
     {
         public string GetCreditDecision(int creditScore)
@@ -55,6 +56,7 @@ namespace UnitTesting.GettingStarted
                 return "We look forward to doing business with you!";
         }
     }
+    */
 
     public class CreditDecision
     {
@@ -67,6 +69,7 @@ namespace UnitTesting.GettingStarted
 
         public string MakeCreditDecision(int creditScore)
         {
+            return "happy";
             return creditDecisionService.GetCreditDecision(creditScore);
         }
     }
