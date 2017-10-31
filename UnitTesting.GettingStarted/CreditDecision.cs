@@ -68,8 +68,7 @@ namespace UnitTesting.GettingStarted
         }
 
         public string MakeCreditDecision(int creditScore)
-        {
-            return "happy";
+        {         
             return creditDecisionService.GetCreditDecision(creditScore);
         }
     }
